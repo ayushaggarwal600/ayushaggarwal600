@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.zyrosite.com/Aq20eV79zLfpXV6b/colorlessbitesizedkob-size_restricted-dWxMw6VeVnhwvlpy.gif)]
+[![MasterHead](https://digitalcuisine.ro/wp-content/uploads/2022/08/b1.3.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Aggarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
