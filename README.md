@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ayushag600" target="blank"><img src="https://img.shields.io/twitter/follow/ayushag600?logo=twitter&style=for-the-badge" alt="ayushag600" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently working on **Agayu**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Web development**
 
