@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayushag600" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png" alt="ayushag600" height="30" width="40" /></a>
+<a href="https://twitter.com/ayushag600" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png" alt="ayushag600" height="30" /></a>
 <a href="https://linkedin.com/in/ayushaggarwal600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushaggarwal600" height="30" width="40" /></a>
 </p>
 
